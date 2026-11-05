@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Tommy 👋
 
-<!--
-**ihappytww-maker/ihappytww-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI agent & automation enthusiast.
 
-Here are some ideas to get you started:
+- 🔭 Currently exploring **AgentScope** / **QwenPaw** for cloud-hosted agent workflows
+- ⚙️ Into scheduled automation, lightweight API services and self-hosted tooling
+- 🌱 Learning Linux ops and container-based deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus areas
+
+| Area | Notes |
+| --- | --- |
+| AI agents & LLM tooling | Skills, MCP servers, agent orchestration |
+| Automation | Cron jobs, data collection, digest pipelines |
+| Backend | Lightweight services, container deployment |
+
+## Links
+
+- [AgentScope](https://github.com/agentscope-ai/agentscope) — a flexible multi-agent framework
+- [QwenPaw](https://github.com/agentscope-ai/QwenPaw) — agent workspace with skills and plugins
